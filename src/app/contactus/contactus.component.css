@@ -1,0 +1,29 @@
+h1{
+    color: tomato;
+    text-align: center;
+    font-size: 500%;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+    
+}
+#head{
+    margin-top: 10%;
+}
+
+#body{
+    text-align: center;
+    font-size: 100%;
+    color: rgb(117, 49, 226);
+}
+
+#form{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#button{
+    text-align: center;
+}
